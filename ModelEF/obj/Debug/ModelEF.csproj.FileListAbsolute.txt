@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\PagedList.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\PagedList.Mvc.dll
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\PagedList.xml
+C:\Users\ADMIN\Documents\Visual Studio 2017\Projects\ModelEF\ModelEF\bin\Debug\PagedList.Mvc.xml
